@@ -1,0 +1,1 @@
+This project is a dynamic portfolio and resume builder. It allows users to create, customize, and showcase their professional profiles, making it ideal for developers and individuals looking to create an online resume.
